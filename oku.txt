@@ -1,0 +1,14 @@
+Paragraf Kelime Analizi Çalışması
+
+Bu çalışmada, Python programlama dili kullanılarak bir paragraf içerisindeki kelimeler ayrıştırılmış ve her bir kelimenin karakter uzunlukları hesaplanmıştır.
+
+Paragraf, split() metodu aracılığıyla boşluk karakterine göre kelimelere bölünmüştür.
+
+Döngü yapıları kullanılarak her kelimenin karakter sayısı tek tek belirlenmiş ve sonuçlar bir liste halinde toplanmıştır.
+
+Bu yöntemle, metin analizi ve temel string işlemleri pratiği yapılmıştır.
+
+Elde edilen çıktı, kelimelerin sırasıyla ve uzunluklarıyla uyumlu olup fonksiyonun doğru çalıştığını göstermektedir.
+
+Bu çalışma, metin madenciliği ve doğal dil işleme alanlarında temel veri ön işleme tekniklerinin anlaşılması açısından önem taşımaktadır.
+
